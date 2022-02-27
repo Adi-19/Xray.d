@@ -1,3 +1,10 @@
+## Scaned
+
+## Description 
+Scaned is an AI-powered website where the user can upload an X-ray/CT scan image to get predictions from 21 diseases using a Deep Learning-based model. Once the image Is uploaded, it will predict a disease that has a high probability.  Healthcare being a sensitive area we will be adding AI explainability using Class Activation Map methods.
+
+## Tech stack
+Tensorflow, Flask, Microsoft Azure, Azure Web service, Python 
 
 ## Installation
 

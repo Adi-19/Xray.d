@@ -8,8 +8,8 @@ Xrayd is an AI-powered website where the user can upload an X-ray/CT scan image 
 Tensorflow, Flask, Microsoft Azure, Azure Web service, Python 
 
 ## Demo
-[Youtube](https://youtu.be/5otRm0IGxag)
-
+For demo of the prototype check here [Youtube](https://youtu.be/5otRm0IGxag)  
+Check out the [Presentation](https://github.com/Adi-19/Xray.d/blob/main/Innovaccer's%20HackerCamp'22.pdf)
 ## Installation
 
 Install the required libraries from requirements.txt
